@@ -24,4 +24,4 @@ hs_err_pid*
 
 target/*
 *.iws
-.idea/compiler.xml
+.idea/*
